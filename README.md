@@ -23,13 +23,19 @@ When brought back online:
 
 <hr>
 
+# Application Local Machine Icon
+
 ![Application Local Machine Icon](https://github.com/JordanNaei/budgetTracker/blob/master/public/img/DTIcon.PNG?raw=true)
 
 <hr>
 
+# Application Local Machine Version
+
 ![Application Local Machine Version ](https://github.com/JordanNaei/budgetTracker/blob/master/public/img/appDT.PNG?raw=true)
 
 <hr>
+
+# Application Local Machine Version Offline Mode
 
 ![Application Offline Mode](https://github.com/JordanNaei/budgetTracker/blob/master/public/img/AppOffline.PNG?raw=true)
 
